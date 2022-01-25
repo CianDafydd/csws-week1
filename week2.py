@@ -1,0 +1,11 @@
+names = ["Cian", "Jack", "Leah", "Elliot", "Cai", "Eben"]
+print(names)
+print(names[0])
+print(names[2])
+print(names[1])
+print(names[4])
+print(names[5])
+print(names[3])
+print("--------------------------------")
+print(names[0].upper())
+print(names[-1].upper())
